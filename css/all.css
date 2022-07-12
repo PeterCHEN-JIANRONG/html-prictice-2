@@ -150,6 +150,7 @@ body {
   display: block;
   text-align: center;
   padding: 16px 0;
+  color: #3f5d45;
 }
 .content .sidebar__item a:hover {
   background: #eaf0ed;
